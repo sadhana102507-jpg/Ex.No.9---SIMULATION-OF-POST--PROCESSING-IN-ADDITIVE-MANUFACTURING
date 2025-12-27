@@ -48,6 +48,20 @@
 ## Output:
 <img width="1581" height="668" alt="Screenshot 2025-12-21 150711" src="https://github.com/user-attachments/assets/185ba0d6-ef78-4f51-9cd7-74d03c297a6c" />
 
+## Explanation:
+
+This experiment explains the operations performed after 3D printing to improve part quality.
+
+Support Removal Process
+Temporary support structures used during printing are carefully removed to obtain the final shape.
+
+UV Curing of 3D Printed Part
+The printed part is exposed to UV light to fully harden the material and improve strength (commonly used for resin prints).
+
+Heat Treatment of 3D Printed Part
+The part is heated at a controlled temperature to relieve internal stresses and enhance mechanical properties.
+
+The output image shows a finished component after all post-processing steps.
 ### Name:SADHANA R
 ### Register Number:25017643
 
