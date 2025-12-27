@@ -31,19 +31,17 @@
 ### 4.	When the first part is selected then it will open in the blank space in the left side of the screen.
 ### 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
-## OUTPUT :
+## Input :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+<img width="623" height="847" alt="Screenshot 2025-12-27 205200" src="https://github.com/user-attachments/assets/4a7648a0-ab7d-4774-87db-fadb1bfc4b17" />
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+<img width="552" height="582" alt="Screenshot 2025-12-27 205245" src="https://github.com/user-attachments/assets/62f592ad-a1cd-4dca-8fea-e8650cec6961" />
+<img width="560" height="391" alt="Screenshot 2025-12-27 205308" src="https://github.com/user-attachments/assets/a250f35d-d504-46dc-8de3-a2920f9f49ff" />
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+<img width="466" height="817" alt="Screenshot 2025-12-27 205341" src="https://github.com/user-attachments/assets/49dd7a3d-dcf0-44ea-93b2-17b97a200ec5" />
 
 ## Output:
 <img width="1581" height="668" alt="Screenshot 2025-12-21 150711" src="https://github.com/user-attachments/assets/185ba0d6-ef78-4f51-9cd7-74d03c297a6c" />
